@@ -48,7 +48,7 @@ Los resultados permiten describir el comportamiento observado, pero no necesaria
 ## 📁 Archivos del proyecto
 
 - 📊 [Dashboard en Excel](./PreEntrega9.xlsx)
-- 📄 [Informe explicativo](./PreEntrega 9.pdf)
+- 📄 [Informe explicativo](./PreEntrega9.pdf)
 
 ## 📌 Nota metodológica
 
